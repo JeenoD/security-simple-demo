@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 自定义的密码器
- * @author 杜家浩
+ * @author Jeeno
  * @version 1.0.0
  * @date 2020/1/8 17:17
  */
